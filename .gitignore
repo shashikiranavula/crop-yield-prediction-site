@@ -1,0 +1,10 @@
+myvenv/
+venv/
+__pycache__/
+*.pyc
+.idea/
+gh_cli_extracted/
+gh_cli.zip
+cropyield_updated.zip
+zip_script.py
+staticfiles/
